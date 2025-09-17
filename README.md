@@ -18,7 +18,6 @@ Visit my portfolio at: https://zoeyding-max.github.io
 - Smooth scrolling navigation
 - Interactive contact form
 - Project showcases with hover effects
-- Professional timeline
 - Modern gradient design
 
 ## 📞 Contact
